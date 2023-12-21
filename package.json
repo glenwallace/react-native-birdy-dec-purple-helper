@@ -1,0 +1,26 @@
+{
+    "name": "react-native-birdy-dec-purple-helper",
+    "version": "1.0.0",
+    "description": "this is designed for dec helper",
+    "homepage": "https://github.com/glenwallace/react-native-birdy-dec-purple-helper",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "react-native-birdy-dec-purple-helper"
+    ],
+    "author": {
+      "name": "birdy",
+      "email": "birdy@example.com"
+    },
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/glenwallace/react-native-birdy-dec-purple-helper.git"
+    },
+    "peerDependencies": {
+      "react": "*",
+      "react-native": "*"
+    }
+  }
